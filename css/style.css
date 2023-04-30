@@ -318,9 +318,10 @@
 
 
 .site-main .subscribe-us-area .subscribe{
-    background: url(../img/subscribe-bg.png) no-repeat;
+    background: url(../img/subscribe-bg.png);
     padding: 10rem 0;
     margin: 3rem auto;
+    height: 550px;
 }
 
 
@@ -337,6 +338,7 @@
 
 .site-main .subscribe-us-area .subscribe form .input-textbox input{
     width: 400px;
+    height: 50px;
     padding: 1.5rem 1rem;
     border: 1px solid whitesmoke;
     background: transparent;
@@ -352,6 +354,7 @@
 
 .site-main .subscribe-us-area .subscribe form .btn-submit button{
     background: whitesmoke;
+    height: 50px;
     color: #000;
     padding: .7rem 2rem;
 }
